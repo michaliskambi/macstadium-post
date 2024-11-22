@@ -32,8 +32,20 @@ This is tremendously useful when testing and investigating macOS-specific issues
 
 Moreover, on macOS our engine can build ready [application bundles](https://castle-engine.io/macos#_macos_application_bundles). These are implemented in our [build tool](https://castle-engine.io/build_tool) and also require testing specifically on macOS.
 
+We could also test [new Steam integration](https://castle-engine.io/steam) on macOS this way.
+
 ## License and Support
 
 The entire engine is [open-source](https://castle-engine.io/license), with all the features and all the tools. You can use it to develop any games or applications, including proprietary (closed source).
 
 We appreciate supporting the engine on [Patreon](https://www.patreon.com/castleengine). We're also open to cooperate with companies on support and features, see https://castle-engine.io/donate .
+
+## Screenshots
+
+![FPS game on macOS](images/mac_fps_game_1.png)
+
+![FPS game on macOS](images/mac_fps_game_2.png)
+
+![Platformer game on macOS](images/mac_platformer_1.png)
+
+![Platformer game on macOS](images/mac_platformer_2.png)
