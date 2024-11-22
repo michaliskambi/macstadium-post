@@ -12,6 +12,10 @@ We also feature a number of tools, for example [Castle Model Viewer](https://cas
 
 For more information, head to the [engine webpage](https://castle-engine.io/), [downloads](https://castle-engine.io/download), [read the detailed list of features](https://castle-engine.io/features), [read tutorial](https://castle-engine.io/bad_chess), [watch video tutorial](https://www.youtube.com/watch?v=xvAmuPD4PrU) and finally take a look at [macOS specific information](https://castle-engine.io/macos).
 
+![FPS game on macOS](images/mac_fps_game_1.png)
+
+![FPS game on macOS](images/mac_fps_game_2.png)
+
 ## Using MacStadium for Castle Game Engine development
 
 ### GitHub Actions runner
@@ -40,11 +44,7 @@ The entire engine is [open-source](https://castle-engine.io/license), with all t
 
 We appreciate supporting the engine on [Patreon](https://www.patreon.com/castleengine). We're also open to cooperate with companies on support and features, see https://castle-engine.io/donate .
 
-## Screenshots
-
-![FPS game on macOS](images/mac_fps_game_1.png)
-
-![FPS game on macOS](images/mac_fps_game_2.png)
+## More Screenshots
 
 ![Platformer game on macOS](images/mac_platformer_1.png)
 
